@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="44.317707mm"
+   height="44.317703mm"
+   viewBox="0 0 44.317707 44.317703"
+   version="1.1"
+   id="svg6511"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="hour-hand-3-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6513"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="11.313708"
+     inkscape:cx="78.312079"
+     inkscape:cy="56.126603"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="20.681703,29.378014"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.631455,36.778248"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.219283,34.972038"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20.874364,34.179835"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.18709,32.904562"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.445097,31.083919"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6508">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2426">
+      <path
+         d="m 8060.68,5204.7 c -93.72,0 -175.9,82.2 -175.9,175.9 0,93.7 82.18,175.9 175.9,175.9 93.72,0 175.91,-82.2 175.91,-175.9 0,-93.7 -82.19,-175.9 -175.91,-175.9 z"
+         id="path2424" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(174.538,-302.309,-302.309,-174.538,7973.41,5531.8)"
+       spreadMethod="pad"
+       id="linearGradient2434">
+      <stop
+         style="stop-opacity:1;stop-color:#ededed"
+         offset="0"
+         id="stop2428" />
+      <stop
+         style="stop-opacity:1;stop-color:#ededed"
+         offset="0.48211215"
+         id="stop2430" />
+      <stop
+         style="stop-opacity:1;stop-color:#d0d0d0"
+         offset="1"
+         id="stop2432" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2444">
+      <path
+         d="m 8060.68,5224.3 c -83.29,0 -156.36,73 -156.36,156.3 0,83.3 73.07,156.4 156.36,156.4 83.3,0 156.37,-73.1 156.37,-156.4 0,-83.3 -73.07,-156.3 -156.37,-156.3 z"
+         id="path2442" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(155.141,-268.712,-268.712,-155.141,7983.11,5515)"
+       spreadMethod="pad"
+       id="linearGradient2452">
+      <stop
+         style="stop-opacity:1;stop-color:#d0d0d0"
+         offset="0"
+         id="stop2446" />
+      <stop
+         style="stop-opacity:1;stop-color:#ededed"
+         offset="0.51788785"
+         id="stop2448" />
+      <stop
+         style="stop-opacity:1;stop-color:#ededed"
+         offset="1"
+         id="stop2450" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.09317171,-98.332576)">
+    <path
+       id="hour-hand"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352778"
+       d="m 22.092291,108.22005 -1.289498,8.1365 0.532935,2.51535 c -0.619943,0.29093 -1.056491,0.82136 -1.0565,1.62005 0.05965,2.30093 3.574488,2.22418 3.574459,-2e-4 -10e-6,-0.7912 -0.426246,-1.31621 -1.012443,-1.63723 l 0.498038,-2.48888 z m -0.02609,11.25439 c 0.545035,0 1.015967,0.47246 1.015959,1.01751 -6e-6,0.54503 -0.470933,1.01596 -1.015959,1.01596 -0.545026,0 -1.017502,-0.47093 -1.017509,-1.01596 -8e-6,-0.54505 0.472474,-1.01751 1.017509,-1.01751 z"
+       sodipodi:nodetypes="cccsscccsssss" />
+  </g>
+</svg>
